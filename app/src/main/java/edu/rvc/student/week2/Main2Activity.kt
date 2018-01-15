@@ -1,5 +1,5 @@
 package edu.rvc.student.week2
-
+//CHuck Konkol
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
